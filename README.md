@@ -1,8 +1,4 @@
-<h1 align="center">Hi there, I'm istbega! 👋</h1>
-<h3 align="center">🚀 Web Developer | Learning & Growing</h3>
-
----
-
+```javascript
 class SoftwareEngineer {
     constructor() {
         this.name = "Bega";
@@ -17,9 +13,7 @@ class SoftwareEngineer {
 
 const me = new SoftwareEngineer();
 me.sayHi();
-
-
----
+```
 
 📊 **The last few months I spent my time on:**
 <!--START_SECTION:waka-->
