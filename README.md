@@ -22,13 +22,22 @@
 - **Package Manager**: Pacman, Yay, npm
 - **Version Control**: Git
 - **Browser**: Zen Browser
+- **Laptop**: Gigabyte G5 KF
+- **Processor**: Intel Core i5-12500H
+- **Graphics**: NVIDIA GeForce 4060
+- **RAM**: 16 GB
+- **Storage**: 512 GB SSD
+- **Display**: 15.6-inch Full HD (1920x1080)
+- **Keyboard**: Backlit keyboard
+- **Cooling**: Advanced cooling system with dual fans
+- **Mouse**: Logitech G203 Lightsync
   
 ### 🛠️ Tools & Technologies
-
+![Laptop](https://img.shields.io/badge/Laptop-Gigabyte%20G5%20KF-000000?style=flat&logo=apple&logoColor=white)
+![Mouse](https://img.shields.io/badge/Mouse-Logitech%20G203%20Lightsync-000000?style=flat&logo=logitech&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F1502F?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Zen Browser](https://img.shields.io/badge/Browser-Zen%20Browser-FFD700?style=flat&logo=browser&logoColor=white)
 
 
