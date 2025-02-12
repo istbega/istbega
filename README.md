@@ -3,12 +3,21 @@
 
 ---
 
-### 🔥 About Me:
-- 🖥️ Skilled in **HTML, CSS, JavaScript**
-- 🚀 Learning **Node.js**
-- 🎲 Built a **random number generator**
-- 🌍 Developing my own **website**
-- 💡 Using **VS Code, Neovim, Git, GitHub**
+class SoftwareEngineer {
+    constructor() {
+        this.name = "Bega";
+        this.role = "Web Developer";
+        this.language_spoken = ["ru_RU", "de_DE"];
+    }
+
+    sayHi() {
+        console.log("Thanks for visiting my profile! Hope you find my work interesting.");
+    }
+}
+
+const me = new SoftwareEngineer();
+me.sayHi();
+
 
 ---
 
