@@ -15,18 +15,18 @@
 ### 🔧 Tech Stack:
 
 #### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-22272E?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-22272E?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-22272E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### **Backend (Coming Soon)**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-22272E?style=for-the-badge&logo=node.js&logoColor=339933)
 
 #### **Tools**
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-22272E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Neovim](https://img.shields.io/badge/Neovim-22272E?style=for-the-badge&logo=neovim&logoColor=57A143)
+![Git](https://img.shields.io/badge/Git-22272E?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-22272E?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -38,18 +38,20 @@
 ---
 
 ### 📊 GitHub Stats:
-![istbega's GitHub stats](https://github-readme-stats.vercel.app/api?username=istbega&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istbega&layout=compact&theme=dark)
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=istbega&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istbega&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-### 📫 Contact Me:
-📩 **Email:** `behinmaksym@gmail.com`  
-💬 **Telegram:** `@istbegaa`  
+### 📫 Contact Me
+📩 **Email:** behikmaksym@gmail.com  
+💬 **Telegram:** [@istbega](https://t.me/istbega)  
 
 ---
 
-⭐ **If you like my profile, give a star to my projects!** 😉
+⭐ **If you like my profile, give a star to my projects!**  
 
 ![Typing GIF](https://readme-typing-svg.herokuapp.com?size=24&color=F7A400&lines=Hi,+I'm+a+Web+Developer!;Learning+JavaScript+and+Node.js)
 
