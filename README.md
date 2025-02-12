@@ -50,3 +50,7 @@
 ---
 
 ⭐ **If you like my profile, give a star to my projects!** 😉
+
+![Typing GIF](https://readme-typing-svg.herokuapp.com?size=24&color=F7A400&lines=Hi,+I'm+a+Web+Developer!;Learning+JavaScript+and+Node.js)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=istbega&color=blue)
