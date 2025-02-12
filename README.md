@@ -31,14 +31,20 @@
 - **Keyboard**: Backlit keyboard
 - **Cooling**: Advanced cooling system with dual fans
 - **Mouse**: Logitech G203 Lightsync
-![Laptop](https://img.shields.io/badge/Laptop-Gigabyte%20G5%20KF-000000?style=flat&logo=apple&logoColor=white)
-![Mouse](https://img.shields.io/badge/Mouse-Logitech%20G203%20Lightsync-0077B5?style=flat&logo=logitech&logoColor=white)
-  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Laptop-Gigabyte%20G5%20KF-000000?style=flat&logo=apple&logoColor=white" alt="Laptop"/>
+  <img src="https://img.shields.io/badge/Mouse-Logitech%20G203%20Lightsync-000000?style=flat&logo=logitech&logoColor=white" alt="Mouse"/>
+</div>
+
 ### 🛠️ Tools & Technologies
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F1502F?style=flat&logo=git&logoColor=white)
-![Zen Browser](https://img.shields.io/badge/Browser-Zen%20Browser-FFD700?style=flat&logo=browser&logoColor=white)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F1502F?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Browser-Zen%20Browser-FFD700?style=flat&logo=browser&logoColor=white" alt="Zen Browser"/>
+</div>
 
 
 ### 🔧 Tech Stack:
