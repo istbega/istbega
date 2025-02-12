@@ -41,8 +41,6 @@
 
 ### 🚀 Top Repositories
 
-### 🚀 Top Repositories
-
 <div align="center">
   <a href="https://github.com/istbega/Strict-equality-js">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=Strict-equality-js&theme=radical" alt="Strict equality in JS" />
@@ -56,7 +54,6 @@
   <br>
   <p align="center"><strong>Random Number Generator</strong><br>A sleek web tool for generating numbers within a custom range</p>
 </div>
-
 
 ### 📊 GitHub Stats:
 <div align="center">
