@@ -1,5 +1,5 @@
 ```javascript
-class SoftwareEngineer {
+class WebDeveloper {
     constructor() {
         this.name = "Bega";
         this.role = "Web Developer";
@@ -10,6 +10,7 @@ class SoftwareEngineer {
         console.log("Thanks for visiting my profile! Hope you find my work interesting.");
     }
 }
+
 const myTechStack = {
     frontEnd: {
         js: ["React"], // in learning
@@ -21,8 +22,9 @@ const myTechStack = {
     currentlyLearning: ["React", "Node.js"], // in process
 };
 
-const me = new SoftwareEngineer();
+const me = new WebDeveloper();
 me.sayHi();
+
 
 ```
 
