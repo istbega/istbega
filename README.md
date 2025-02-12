@@ -44,11 +44,11 @@
 <div align="center">
   
   <a href="https://github.com/istbega/Strict-equality-js">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=YOUR_REPO_1&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=Strict-equality-js_1&theme=tokyonight" />
   </a>
   
   <a href="https://github.com/istbega/number.gen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=YOUR_REPO_2&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=number.gen_2&theme=tokyonight" />
   </a>
 
 </div>
