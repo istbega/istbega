@@ -22,7 +22,6 @@
 - **Package Manager**: Pacman, Yay, npm
 - **Version Control**: Git
 - **Browser**: Zen Browser
-- **Tools**: Docker, Postman
   
 ### 🛠️ Tools & Technologies
 
