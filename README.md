@@ -40,10 +40,10 @@
 ### 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"/>
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F1502F?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Browser-Zen%20Browser-FFD700?style=flat-square&logo=browser&logoColor=white" alt="Zen Browser"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=plastic&logo=neovim&logoColor=white" alt="Neovim"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F1502F?style=plastic&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Browser-Zen%20Browser-FFD700?style=plastic&logo=browser&logoColor=white" alt="Zen Browser"/>
 </div>
 
 
