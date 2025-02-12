@@ -62,6 +62,10 @@
 ![Neovim](https://img.shields.io/badge/Neovim-22272E?style=for-the-badge&logo=neovim&logoColor=57A143)
 ![Git](https://img.shields.io/badge/Git-22272E?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-22272E?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Version%20Control-Git-F1502F?style=flat-square&logo=git&logoColor=white)
+![Zen Browser](https://img.shields.io/badge/Browser-Zen%20Browser-FFD700?style=flat-square&logo=browser&logoColor=white)
 
 ---
 
