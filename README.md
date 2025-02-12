@@ -46,6 +46,8 @@
   <a href="https://github.com/istbega/Strict-equality-js">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=Strict-equality-js&theme=dracula" />
   </a>
+  A simple yet powerful random number generator for web applications.  
+   🚀 *Live Demo Available* | ⭐ 50 stars
   
   <a href="https://github.com/istbega/number.gen">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=number.gen&theme=dracula" />
