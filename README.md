@@ -10,9 +10,20 @@ class SoftwareEngineer {
         console.log("Thanks for visiting my profile! Hope you find my work interesting.");
     }
 }
+const myTechStack = {
+    frontEnd: {
+        js: ["React"], // in learning
+    },
+    backEnd: {
+        js: ["Node.js"],
+    },
+    languages: ["HTML", "CSS", "JavaScript"],
+    currentlyLearning: ["React", "Node.js"], // in process
+};
 
 const me = new SoftwareEngineer();
 me.sayHi();
+
 ```
 
 📊 **The last few months I spent my time on:**
