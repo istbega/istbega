@@ -31,6 +31,8 @@
 ---
 
 ### 📌 My Projects:
+<div align="center">
+
 | Project | Description | Link |
 |---------|------------|------|
 | 🎲 **Random Number Generator** | Generates random numbers | [GitHub](https://numbergenv2-1.netlify.app/) |
