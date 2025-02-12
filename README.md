@@ -39,16 +39,6 @@
 ![Git](https://img.shields.io/badge/Git-22272E?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-22272E?style=for-the-badge&logo=github&logoColor=white)
 
-
----
-
-### 📌 My Projects:
-<div align="center">
-
-| Project | Description | Link |
-|---------|------------|------|
-| 🎲 **Random Number Generator** | Generates random numbers | [GitHub](https://numbergenv2-1.netlify.app/) |
-
 ---
 
 ### 👨‍💻 GitHub Profile Summary
