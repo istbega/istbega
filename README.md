@@ -12,6 +12,27 @@
 
 ---
 
+### 💻 My Development Environment
+
+- **OS**: Arch Linux
+- **Desktop Environment**: XFCE
+- **Editor**: VS Code, Neovim
+- **Terminal**: Git Bash
+- **Shell**: Bash
+- **Package Manager**: Pacman, Yay, npm
+- **Version Control**: Git
+- **Browser**: Zen Browser
+- **Tools**: Docker, Postman
+  
+### 🛠️ Tools & Technologies
+
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Version%20Control-Git-F1502F?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Zen Browser](https://img.shields.io/badge/Browser-Zen%20Browser-FFD700?style=flat&logo=browser&logoColor=white)
+
+
 ### 🔧 Tech Stack:
 
 #### **Frontend**
