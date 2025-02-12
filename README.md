@@ -41,20 +41,22 @@
 
 ### 🚀 Top Repositories
 
-<div align="center">
-  
-  <a href="https://github.com/istbega/Strict-equality-js">
-    A simple yet powerful random number generator for web applications.  
-   🚀 *Live Demo Available* | ⭐ 50 stars
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=Strict-equality-js&theme=dracula" />
-  </a>
-  
-  
-  <a href="https://github.com/istbega/number.gen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=number.gen&theme=dracula" />
-  </a>
+### 🚀 Top Repositories
 
+<div align="center">
+  <a href="https://github.com/istbega/Strict-equality-js">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=Strict-equality-js&theme=radical" alt="Strict equality in JS" />
+  </a>  
+  <br>
+  <p align="center"><strong>Strict equality in JavaScript</strong><br>A fundamental comparison operator ensuring value and type matching</p>
+
+  <a href="https://github.com/istbega/number.gen">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=istbega&repo=number.gen&theme=radical" alt="Random Number Generator" />
+  </a>  
+  <br>
+  <p align="center"><strong>Random Number Generator</strong><br>A sleek web tool for generating numbers within a custom range</p>
 </div>
+
 
 ### 📊 GitHub Stats:
 <div align="center">
