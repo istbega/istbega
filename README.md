@@ -12,15 +12,18 @@
 
 ---
 
+📊 **the last few months I spent my time on:**
+<!--START_SECTION:waka-->
 
-### 🛠️ Tools & Technologies
+```txt
+JavaScript   72 hrs          ███████████████████████░░   52.6 %
+css         29 hrs         ▒░░░░░░░░░░░░░░░░░░░░░░░░   21.2 %
+html       14 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   10.8 %
+Text         12 hrs         ▒░░░░░░░░░░░░░░░░░░░░░░░░   8.8 %
+Bash         9 hrs          ░░░░░░░░░░░░░░░░░░░░░░░░░   6.6 %
+```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/>
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F1502F?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Browser-Zen%20Browser-FFD700?style=flat&logo=browser&logoColor=white" alt="Zen Browser"/>
-</div>
+<!--END_SECTION:waka-->
 
 
 ### 🔧 Tech Stack:
