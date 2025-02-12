@@ -12,30 +12,6 @@
 
 ---
 
-### 💻 My Development Environment
-
-- **OS**: Arch Linux
-- **Desktop Environment**: XFCE
-- **Editor**: VS Code, Neovim
-- **Terminal**: Git Bash
-- **Shell**: Bash
-- **Package Manager**: Pacman, Yay, npm
-- **Version Control**: Git
-- **Browser**: Zen Browser
-- **Laptop**: Gigabyte G5 KF
-- **Processor**: Intel Core i5-12500H
-- **Graphics**: NVIDIA GeForce 4060
-- **RAM**: 16 GB
-- **Storage**: 512 GB SSD
-- **Display**: 15.6-inch Full HD (1920x1080)
-- **Keyboard**: Backlit keyboard
-- **Cooling**: Advanced cooling system with dual fans
-- **Mouse**: Logitech G203 Lightsync
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Laptop-Gigabyte%20G5%20KF-000000?style=flat&logo=apple&logoColor=white" alt="Laptop"/>
-  <img src="https://img.shields.io/badge/Mouse-Logitech%20G203%20Lightsync-000000?style=flat&logo=logitech&logoColor=white" alt="Mouse"/>
-</div>
 
 ### 🛠️ Tools & Technologies
 
