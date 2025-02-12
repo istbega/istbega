@@ -46,3 +46,8 @@ Bash         9 hrs           ██░░░░░░░░░░░░░░░
 ![Typing GIF](https://readme-typing-svg.herokuapp.com?size=24&color=F7A400&lines=Hi,+I'm+a+Web+Developer!;Learning+JavaScript+and+Node.js)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=istbega&color=blue)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
