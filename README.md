@@ -47,6 +47,23 @@ Bash         9 hrs           ██░░░░░░░░░░░░░░░
 
 ---
 
+100% |                             █
+ 90% |                         █
+ 80% |                     █
+ 70% |                 █
+ 60% |             █
+ 50% |         █
+ 40% |     █
+ 30% | █
+ 20% | 
+ 10% | 
+  0% | 
+        ----------------------------------------------------
+           JavaScript    React    Node.js    HTML    CSS
+
+
+---
+
 ### 📊 GitHub Stats:
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=istbega&show_icons=true&theme=tokyonight" />
