@@ -27,11 +27,6 @@ Bash         9 hrs           ██░░░░░░░░░░░░░░░
 
 ---
 
-### 👨‍💻 GitHub Profile Summary
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istbega&theme=radical)
-
-
 ### 📊 GitHub Stats:
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=istbega&show_icons=true&theme=tokyonight" />
