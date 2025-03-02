@@ -56,7 +56,7 @@ Bash         9 hrs           ██░░░░░░░░░░░░░░░
 ---
 
 ### 📫 Contact Me
-📩 **Email:** behikmaksym@gmail.com  
+📩 **Email:** behinmaksym@gmail.com  
 💬 **Telegram:** [@istbega](https://t.me/istbega)  
 
 ---
